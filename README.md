@@ -1,2 +1,2 @@
 # sample-repo-udemy
-Git repository practice on Udemy
+Renewal practice - just save
